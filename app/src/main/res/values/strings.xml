@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">heyWater</string>
+    <string name="hint_weight">Your Weight (kg)</string>
+    <string name="hint_age">Your Age</string>
+    <string name="text_button_calculate">Calculate water intake</string>
+    <string name="text_button_reminder">Reminder</string>
+    <string name="text_button_alarm">Alarm</string>
+    <string name="text_hour">00</string>
+    <string name="text_two_point">:</string>
+    <string name="text_minute">00</string>
+</resources>
